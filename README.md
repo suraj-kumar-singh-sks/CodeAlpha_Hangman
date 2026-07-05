@@ -1,11 +1,11 @@
-# 🎯 Hangman — Word Guessing Game
+# Hangman — Word Guessing Game
 
 A text-based Hangman game built with **pure Python**.  
 The player guesses a hidden word one letter at a time, with a hint shown at the start, before the hangman drawing is complete.
 
 ---
 
-## 📌 Project Info
+## Project Info
 
 | Detail | Info |
 |---|---|
@@ -16,7 +16,7 @@ The player guesses a hidden word one letter at a time, with a hint shown at the 
 
 ---
 
-## 🧠 Python Concepts Used
+## Python Concepts Used
 
 | Concept | Where it's applied |
 |---|---|
@@ -30,7 +30,7 @@ The player guesses a hidden word one letter at a time, with a hint shown at the 
 
 ---
 
-## 🎮 How to Play
+##How to Play
 
 1. Run the program — a random word and a matching hint are chosen
 2. The hint and word length are shown to help you get started
@@ -43,7 +43,7 @@ The player guesses a hidden word one letter at a time, with a hint shown at the 
 
 ---
 
-## 🖥️ Demo
+## Demo
 
 ```
 ========================================
@@ -87,7 +87,7 @@ The player guesses a hidden word one letter at a time, with a hint shown at the 
 
 ---
 
-## ⚙️ How the Code Works
+## How the Code Works
 
 ```
 Program starts
@@ -120,7 +120,7 @@ play() — one full round (while loop)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 CodeAlpha_HangmanGame/
@@ -133,7 +133,7 @@ CodeAlpha_HangmanGame/
 
 ---
 
-## 🔧 Functions Overview
+## Functions Overview
 
 | Function | What it does |
 |---|---|
@@ -145,7 +145,7 @@ CodeAlpha_HangmanGame/
 
 ---
 
-## 📋 Lists Used in This Project
+## Lists Used in This Project
 
 | List | Purpose |
 |---|---|
@@ -159,7 +159,7 @@ CodeAlpha_HangmanGame/
 
 ---
 
-## 🛡️ Edge Cases Handled
+## Edge Cases Handled
 
 - **Empty input** — asks the player to enter exactly one letter
 - **Numbers or symbols** — rejected with a clear message
@@ -168,7 +168,7 @@ CodeAlpha_HangmanGame/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 # Make sure Python 3 is installed
@@ -182,7 +182,7 @@ No installation needed — this project only uses Python's built-in `random` mod
 
 ---
 
-## 👤 Author
+## Author
+SURAJ KUMAR SINGH
 
-**Your Name**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+ 
