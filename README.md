@@ -9,7 +9,7 @@ The player guesses a hidden word one letter at a time, with a hint shown at the 
 
 | Detail | Info |
 |---|---|
-| Task | Task 1 — Hangman Game |
+| Task — Hangman Game |
 | Language | Python 3 |
 | Libraries Used | `random` (built-in) |
 | Type | Console / Terminal Application |
